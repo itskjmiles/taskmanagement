@@ -1,52 +1,40 @@
 body {
     background-color: #f8eae9;
-    /* Light pink */
 }
 
 .navbar {
     background-color: #f07da1 !important;
-    /* Pink */
 }
 
 .card {
     background-color: #fff3f4;
-    /* Lighter pink */
 }
 
 .btn-primary {
     background-color: #ff80ab;
-    /* Darker pink */
     border-color: #ff80ab;
-    /* Darker pink */
 }
 
 .btn-primary:hover {
     background-color: #e6608c;
-    /* Hover color */
     border-color: #e6608c;
-    /* Hover color */
 }
 
 .list-group-item {
     background-color: #fff3f4;
-    /* Lighter pink */
     border-color: #ff80ab;
-    /* Darker pink */
 }
 
 .list-group-item:hover {
     background-color: #ffe0eb;
-    /* Hover color */
 }
 
 .modal-content {
     background-color: #fff3f4;
-    /* Lighter pink */
 }
 
 .modal-footer {
     background-color: #fff3f4;
-    /* Lighter pink */
 }
 
 
